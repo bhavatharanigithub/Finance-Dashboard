@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Flow - Production-Quality Finance Dashboard
 
 A secure, full-stack finance dashboard built with Spring Boot and React, featuring Role-Based Access Control (RBAC), JWT authentication, and comprehensive financial analytics.
@@ -77,3 +78,6 @@ Ensure PostgreSQL is running on port `5432` with the following credentials:
 - Automated recurring transaction scheduling.
 - Export to PDF/CSV for financial reports.
 - Advanced visualization with Recharts.
+=======
+"# Finance-Dashboard" 
+>>>>>>> 23c88f787d35ddc67a12f5fba1fbfda59aca22c1
